@@ -16,9 +16,11 @@
 |開発ツール（Tools）|Git, Linux, VSCode|
 
 その他興味（Interests）: C#, Rust, Erlang/Elixir, Go, Unity, Blender
-### English
+## English
 - I'm a graduate student in computer science
 - Research Theme: Development of vision-language models using deep learning and related application development
 - Affiliation
     - Information Processing Society of Japan (IPSJ)
     - The Association for Natural Language Processing
+
+## リンク集（Links）
