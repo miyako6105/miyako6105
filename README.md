@@ -21,9 +21,10 @@
 
 その他興味（Interests）: C#, Rust, Erlang/Elixir, Go, Unity, Blender
 ## 受賞記録
-- 情報科学技術フォーラム（FIT2024） 学生奨励賞
+- 第23回情報科学技術フォーラム（FIT2024） 学生奨励賞
 - 情報処理学会第87回全国大会 学生奨励賞
 - NLP2026 ワークショップ 「大規模言語モデルのファインチューニング技術と評価」 全体第3位・オープン第2位（チームとして受賞）
+- 第25回情報科学技術フォーラム（FIT2026） 学生奨励賞
 ## English
 - I'm a graduate student in computer science
 - Research Theme: Development of vision-language models using deep learning and related application development
